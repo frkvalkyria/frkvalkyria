@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Emilia.
+<i>she/her</i>
+
+🌱 I’m currently learning front-end coding and how to think like a programmer.
+
 <!--
 **frkvalkyria/frkvalkyria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
